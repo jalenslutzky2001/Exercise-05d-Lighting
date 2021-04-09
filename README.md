@@ -1,5 +1,5 @@
 # Exercise-05d-Lighting
-Exercise for MSCH-C220, 5 April 2021
+Exercise for MSCH-C220, 9 April 2021
 
 A demonstration of this exercise is available at [https://youtu.be/MN-i5QDBDcc](https://youtu.be/MN-i5QDBDcc)
 
@@ -85,7 +85,7 @@ Now edit the README.md file. When you have finished editing, commit your changes
 The final state of the file should be as follows (replacing the "Created by" information with your name):
 ```
 # Exercise-05d-Lighting
-Exercise for MSCH-C220, 5 April 2021
+Exercise for MSCH-C220, 9 April 2021
 
 An exploration of 3D lighting and camera movement in Godot
 
@@ -100,11 +100,11 @@ The model is [gr](https://sketchfab.com/3d-models/gr-5df64141235040749103749123e
 The HDRI Sky Box (Venice Sunset) was downloaded from [HDRIHaven](https://hdrihaven.com/hdri/?h=venice_sunset).
 
 ## Future Development
-None
+For future lighting practice in future projects.
 
 ## Extra Credit
 None
 
 ## Created by 
-Jason Francis
+Jalen Dre Slutzky
 ```
